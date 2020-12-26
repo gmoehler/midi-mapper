@@ -1,1 +1,1 @@
-# midiMapper
+# midi-mapper

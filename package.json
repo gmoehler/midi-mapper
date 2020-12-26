@@ -1,0 +1,14 @@
+{
+  "name": "midi-mapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gmoehler/midiMapper.git",
+  "author": "Gregor Moehler <gmoeh@gmx.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "easymidi": "^2.0.1"
+  }
+}
