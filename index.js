@@ -1,3 +1,3 @@
-require("./mapper");
+require("./lib/mapper");
 // require("./pass-thru");
 //require("./test-led");
